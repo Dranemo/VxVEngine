@@ -1,5 +1,5 @@
-@mainpage
-[Release](https://github.com/Dranemo/Releases/releases/tag/VxVEngine)
+@mainpage  
+[Release Link](https://github.com/Dranemo/Releases/releases/tag/VxVEngine)
 
 # Welcome on VxV
 *An OpenGL engine made by VxV Industries*   
